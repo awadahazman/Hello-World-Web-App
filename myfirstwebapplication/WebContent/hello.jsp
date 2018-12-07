@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>My First JSP</title>
+<title>My First Web App</title>
 </head>
 <body>
 Hello World !
